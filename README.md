@@ -16,7 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Setup Instructions
 
 1. Clone the repo: 
-   git clone <repo-link>
+   git clone <https://github.com/sujithakaleeswaran/Task-manager>
 2. Navigate to the project folder:
    cd task-manager
 3. Install dependencies:
